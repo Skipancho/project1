@@ -1,0 +1,11 @@
+git init
+git add git.txt
+git commit -m "  "
+git config --global user.email "   "
+git config --global user.name "    "
+git remote add 이름  링크 
+git push
+git pull
+
+로그 보기
+$ git log --oneline --all
